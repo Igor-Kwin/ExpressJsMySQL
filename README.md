@@ -1,8 +1,8 @@
 # ExpressJsMySQL
-<h4>npm install</h4><br>
-<h4>npm install -g sequelize-cli</h4><br>
-<h4>npm install sequelize -save</h4><br>
-<h4>sequelize init</h4><br>
-<h4>sequelize db:migrate</h4><br>
-<h4>'mysql -u <username> -p <databasename> <filename.sql>' <h4><br>
-<h4>npm start - http://localhost:3000 check your site</h4><br>
+1/ npm install<br>
+2/ npm install -g sequelize-cli<br>
+3/ npm install sequelize -save<br>
+3/ sequelize init<<br>
+4/ sequelize db:migrate<<br>
+5/ mysql -u username -p databasename filename.sql <br>
+6/ npm start - http://localhost:3000 check your site <br>
